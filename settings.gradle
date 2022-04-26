@@ -1,0 +1,2 @@
+rootProject.name = "List All Files"
+include ':app'
